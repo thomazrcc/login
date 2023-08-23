@@ -3,5 +3,6 @@ My first login page with HTML and CSS
 Preview:
 
 
-![image](https://github.com/thomazrcc/login/assets/133155000/40ae4da8-3ddb-4bdc-9400-9cd7e8405bbe)
+![image](https://github.com/thomazrcc/login/assets/133155000/08a32d50-ec45-4bdc-a32e-18e9c3dc40a2)
+
 
